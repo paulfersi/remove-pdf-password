@@ -1,1 +1,1 @@
-# pdf-password-remover
+# PDF password remover
