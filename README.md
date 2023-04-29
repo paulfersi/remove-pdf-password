@@ -37,5 +37,5 @@ This will create a new PDF file with _unlocked appended to the original filename
 
 ### License
 
-This code is released under the MIT License. Feel free to use, modify, and distribute it as you see fit.
+This code is released under the [MIT License]. Feel free to use, modify, and distribute it as you see fit.
 
