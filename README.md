@@ -11,7 +11,7 @@ This is a simple shell script that uses the qpdf command-line tool to remove the
 1. Clone this repository to your local machine.
 
 ```Bash
-git clone https://github.com/yourusername/remove-pdf-password.git
+git clone https://github.com/paulfersi/remove-pdf-password.git
 ```
 
 2. Enter the cloned directory.
